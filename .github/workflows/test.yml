@@ -12,7 +12,7 @@ jobs:
     - name: install libjson
       run: sudo apt install libjson-c-dev cmake doxygen
     - name: install sphinx breathe and exhale
-      run: pip3 install breathe sphinx exhale
+      run: sudo apt-get install python3-setuptools && pip3 install breathe sphinx exhale sphinx_rtd_theme
     - name: create documentation
       run: doxygen -g Doxyfile && ls && ( cat Doxyfile ; echo "EXTRACT_ALL=YES"; echo "EXCLUDE=../doxygen"; echo "RECURSIVE=YES" ) | doxygen - && cd html && cat index.html
 
