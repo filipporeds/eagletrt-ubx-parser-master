@@ -14,11 +14,13 @@ jobs:
     - name: install programs for documenting the code
       run: sudo apt-get install doxygen python3-setuptools && pip3 install breathe sphinx exhale sphinx_rtd_theme
     - name: create documentation
-      run: doxygen -g Doxyfile && ls && ( cat Doxyfile ; echo "EXTRACT_ALL=YES"; echo "EXCLUDE=../doxygen"; echo "RECURSIVE=YES" ) | doxygen - && cd html && cat index.html
+      run: sphinx-build -b html ../docs ../docs/_build
+    #- name: create documentation
+     # run: doxygen -g Doxyfile && ls && ( cat Doxyfile ; echo "EXTRACT_ALL=YES"; echo "EXCLUDE=../doxygen"; echo "RECURSIVE=YES" ) | doxygen - && cd html && cat index.html
 
     - name: Deploy 🚀
       uses: JamesIves/github-pages-deploy-action@4.0.0
       with:
         branch: docs # The branch the action should deploy to.
-        folder: html # The folder the action should deploy.
+        folder: _build # The folder the action should deploy.
 
