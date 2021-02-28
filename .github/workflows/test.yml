@@ -12,7 +12,7 @@ jobs:
     - name: install libjson
       run: sudo apt install libjson-c-dev cmake
     - name: install programs for documenting the code
-      run: sudo apt-get install doxygen python3-setuptools && pip3 install breathe sphinx exhale sphinx_rtd_theme
+      run: sudo apt-get install doxygen python3-sphinx python3-setuptools && pip3 install breathe sphinx exhale sphinx_rtd_theme
     - name: create documentation
       run: cd docs && pip3 show sphinx && sphinx-build -b html ../docs ../docs/_build
     #- name: create documentation
