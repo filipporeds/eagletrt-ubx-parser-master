@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['gngga',['GNGGA',['../parse__ubx_8c.html#acb957763342443c868a67fecde356707',1,'parse_ubx.c']]],
-  ['gngll',['GNGLL',['../parse__ubx_8c.html#a85701dbb8706235fab142957a3cc39ee',1,'parse_ubx.c']]],
-  ['gnrmc',['GNRMC',['../parse__ubx_8c.html#a1ff3706312479d9a21cb264b13b954c7',1,'parse_ubx.c']]]
+  ['copyright',['copyright',['../namespaceconf.html#a33fa97cf51dcb25970fbf53f10159589',1,'conf']]],
+  ['course',['course',['../structmessage__t.html#a3ccaac23ab1346b09bbbe9e30284a2be',1,'message_t']]],
+  ['csv',['csv',['../config__parser_8c.html#ac3ece2af903022a7070ff5d095ed5397',1,'config_parser.c']]]
 ];

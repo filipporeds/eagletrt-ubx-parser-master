@@ -7,5 +7,6 @@ var searchData=
   ['ansi_5fcolor_5fgreen',['ANSI_COLOR_GREEN',['../log__utils__colors_8h.html#a966c72d8d733c7734c6c784753d894c7',1,'log_utils_colors.h']]],
   ['ansi_5fcolor_5fmagenta',['ANSI_COLOR_MAGENTA',['../log__utils__colors_8h.html#acb30614ba1535da5b9d0c490b3c10515',1,'log_utils_colors.h']]],
   ['ansi_5fcolor_5fred',['ANSI_COLOR_RED',['../log__utils__colors_8h.html#a34995b955465f6bbb37c359173d50477',1,'log_utils_colors.h']]],
-  ['ansi_5fcolor_5fyellow',['ANSI_COLOR_YELLOW',['../log__utils__colors_8h.html#a5a123b382640b3aa65dd5db386002fbc',1,'log_utils_colors.h']]]
+  ['ansi_5fcolor_5fyellow',['ANSI_COLOR_YELLOW',['../log__utils__colors_8h.html#a5a123b382640b3aa65dd5db386002fbc',1,'log_utils_colors.h']]],
+  ['author',['author',['../namespaceconf.html#a637c239d256432248aa8d9f3ab0b8c52',1,'conf']]]
 ];

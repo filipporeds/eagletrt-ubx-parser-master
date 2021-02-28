@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['course',['course',['../structmessage__t.html#a3ccaac23ab1346b09bbbe9e30284a2be',1,'message_t']]],
-  ['csv',['csv',['../config__parser_8c.html#ac3ece2af903022a7070ff5d095ed5397',1,'config_parser.c']]]
+  ['breathe_5fdefault_5fproject',['breathe_default_project',['../namespaceconf.html#a6eba2d2c7ae923054b1c49e686ec89b9',1,'conf']]],
+  ['breathe_5fprojects',['breathe_projects',['../namespaceconf.html#acb47d2c0c2904fa7d36b63142533f383',1,'conf']]]
 ];

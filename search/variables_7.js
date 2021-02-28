@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['path',['path',['../structconfig__t.html#aedb330b684a5c8be4e8f7ca366e05a17',1,'config_t']]]
+  ['json',['json',['../config__parser_8c.html#a56806e8469eac01c18a96138f7ee4ca2',1,'config_parser.c']]]
 ];

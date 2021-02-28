@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['no_5ffile',['no_file',['../config__parser_8c.html#a2c1d454f09b8078f090bfc25ecdd35c8',1,'config_parser.c']]]
+  ['inputs_5fcount',['inputs_count',['../structconfig__t.html#a1e6b8f6aec432c7dd25017bbda648135',1,'config_t']]]
 ];

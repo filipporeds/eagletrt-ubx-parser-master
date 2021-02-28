@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['readme_2emd',['README.md',['../README_8md.html',1,'']]],
-  ['rmc',['RMC',['../parse__ubx_8h.html#ae64c9a8278154dfb91652fbb4611542da37404ce986f9a62c55b87b12fe39b532',1,'parse_ubx.h']]]
+  ['no_5ffile',['no_file',['../config__parser_8c.html#a2c1d454f09b8078f090bfc25ecdd35c8',1,'config_parser.c']]]
 ];
