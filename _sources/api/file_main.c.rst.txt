@@ -1,0 +1,64 @@
+
+.. _file_main.c:
+
+File main.c
+===========
+
+.. contents:: Contents
+   :local:
+   :backlinks: none
+
+Definition (``main.c``)
+-----------------------
+
+
+.. toctree::
+   :maxdepth: 1
+
+   program_listing_file_main.c.rst
+
+
+
+
+
+Includes
+--------
+
+
+- ``json-c/json.h``
+
+- ``stdio.h``
+
+- ``stdlib.h``
+
+- ``string.h``
+
+- ``unistd.h``
+
+- ``utils/config_parser/config_parser.h`` (:ref:`file_utils_config_parser_config_parser.h`)
+
+- ``utils/generate_output/generate_output.h`` (:ref:`file_utils_generate_output_generate_output.h`)
+
+- ``utils/log_utils/log_utils.h`` (:ref:`file_utils_log_utils_log_utils.h`)
+
+- ``utils/log_utils/log_utils_colors.h`` (:ref:`file_utils_log_utils_log_utils_colors.h`)
+
+- ``utils/parse_ubx/parse_ubx.h`` (:ref:`file_utils_parse_ubx_parse_ubx.h`)
+
+- ``utils/validate_config/validate_config.h`` (:ref:`file_utils_validate_config_validate_config.h`)
+
+- ``wjelement.h``
+
+- ``wjreader.h``
+
+
+
+
+
+
+Functions
+---------
+
+
+- :ref:`exhale_function_main_8c_1ae66f6b31b5ad750f1fe042a706a4e3d4`
+
